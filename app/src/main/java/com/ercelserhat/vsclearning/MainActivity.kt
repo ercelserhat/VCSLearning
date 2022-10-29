@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("First Commit")
         println("First Branch - First Commit")
+        println("Main Test Commit")
     }
 
 
